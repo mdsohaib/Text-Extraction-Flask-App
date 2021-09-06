@@ -3,3 +3,5 @@ pytesseract
 numpy
 Flask
 Pillow
+gunicorn
+requests
